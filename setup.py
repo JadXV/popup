@@ -6,7 +6,7 @@ setup(
     description="Create pop-up's using Python on windows like its nothing!",
     author='Jad Alhakim',
     author_email='Jad.a7@hotmail.com',
-    url='https://github.com/DreamedOfIt/popup',
+    url='https://github.com/JadXV/popup',
     packages=find_packages(),
     classifiers=[
         'Development Status :: 3 - Alpha',
