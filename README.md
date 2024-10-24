@@ -1,1 +1,9 @@
-Use popup.Alert to summon an alert (THIS ONLY WORKS WITH WINDOWS USERS!!)
+# Download poopup.py
+
+in your code:
+
+import popup
+
+popup.Popup("hello")
+
+(THIS IS EXCLUSIVE TO WINDOWS)
